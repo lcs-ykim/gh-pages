@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Passionate Advocates of Gender Equity</title>
+    <link href="https://lcs-ykim.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://lcs-ykim.github.io/gh-pages" />
+    <updated>2022-01-24T16:27:02-05:00</updated>
+    <author>
+        <name>Yeseo Kim</name>
+    </author>
+    <id>https://lcs-ykim.github.io/gh-pages</id>
+
+    <entry>
+        <title>Introduction</title>
+        <author>
+            <name>Yeseo Kim</name>
+        </author>
+        <link href="https://lcs-ykim.github.io/gh-pages/introduction.html"/>
+        <id>https://lcs-ykim.github.io/gh-pages/introduction.html</id>
+
+        <updated>2022-01-24T16:27:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to Passionate Advocates of Gender Equity's website!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome to Passionate Advocates of Gender Equity's website!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
